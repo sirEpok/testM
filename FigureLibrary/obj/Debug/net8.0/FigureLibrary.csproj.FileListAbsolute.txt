@@ -1,0 +1,11 @@
+C:\Users\sirba\OneDrive\Документы\С#Proj\FigureLibrary\FigureLibrary\bin\Debug\net8.0\FigureLibrary.deps.json
+C:\Users\sirba\OneDrive\Документы\С#Proj\FigureLibrary\FigureLibrary\bin\Debug\net8.0\FigureLibrary.dll
+C:\Users\sirba\OneDrive\Документы\С#Proj\FigureLibrary\FigureLibrary\bin\Debug\net8.0\FigureLibrary.pdb
+C:\Users\sirba\OneDrive\Документы\С#Proj\FigureLibrary\FigureLibrary\obj\Debug\net8.0\FigureLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sirba\OneDrive\Документы\С#Proj\FigureLibrary\FigureLibrary\obj\Debug\net8.0\FigureLibrary.AssemblyInfoInputs.cache
+C:\Users\sirba\OneDrive\Документы\С#Proj\FigureLibrary\FigureLibrary\obj\Debug\net8.0\FigureLibrary.AssemblyInfo.cs
+C:\Users\sirba\OneDrive\Документы\С#Proj\FigureLibrary\FigureLibrary\obj\Debug\net8.0\FigureLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sirba\OneDrive\Документы\С#Proj\FigureLibrary\FigureLibrary\obj\Debug\net8.0\FigureLibrary.dll
+C:\Users\sirba\OneDrive\Документы\С#Proj\FigureLibrary\FigureLibrary\obj\Debug\net8.0\refint\FigureLibrary.dll
+C:\Users\sirba\OneDrive\Документы\С#Proj\FigureLibrary\FigureLibrary\obj\Debug\net8.0\FigureLibrary.pdb
+C:\Users\sirba\OneDrive\Документы\С#Proj\FigureLibrary\FigureLibrary\obj\Debug\net8.0\ref\FigureLibrary.dll
